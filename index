@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+    <head>
+        <title></title>
+        <link rel="stylesheet" href = ""/>
+        <style>
+        </style>
+    </head>
+    
+    <body>
+        
+     <div id="wrapper">
+         <header>
+             <h1>Lifestyle Blog</h1>
+         </header>
+            
+     <nav>   
+         <h2>Navigation</h2>
+       <ul>
+           <li>homepage</li>
+           <li>about us</li>
+           <li>style blog</li>
+       </ul>
+     </nav>
+         
+         <article>
+             <header>
+                 <h1>This weeks trends</h1>
+             </header>
+             <p> this is my main paragraph content.</p>
+             <footer>
+                 <p>category info, publish date, etc.</p>
+             </footer>
+         </article>
+         
+  <aside>
+      <h2> Aside stuff</h2>
+      <li>related links</li>
+  </aside>
+         
+ <footer>
+     
+ </footer>
+
+    </body>
+    
+</html>
