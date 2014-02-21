@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
     <head>
-        <title>My Recipes :: Panna Cotta</title>
+        <title>My Lifestyle Blog - Style </title>
         <link rel="stylesheet" href="./styles/layout.css"/>
         <style>
         </style>
@@ -11,37 +11,38 @@
     <!-- jsfiddle goes here -->
     <div id="wrapper">
     <header class="main">
-         <h1>My Recipe Site</h1>
+         <h1>My Style Blog</h1>
     </header>
     
     <nav>
         <h2>Site Nav</h2>
         <ul>
             <li>Home</li>
-            <li>Recipes</li>
-            <li>About Us</li>
+            <li>Style blog</li>
+            <li>Interior Design</li>
+            <li>Gifts</li>
         </ul>
     </nav>
     
     <article>
         <header class="article">
-            <h1>Panna Cotta</h1>
+            <h1>Spring Fashion Trends</h1>
         </header>
         
-        <p>Description, serving sizes, etc...</p>
+        <p>Clothing & Accessories</p>
         
-        <h2>Ingredients</h2>
+        <h2>Clothing</h2>
         <ul>
-            <li>Gelatin</li>
-            <li>Cream</li>
-            <li>White Chocolate</li>
+            <li>Dresses</li>
+            <li>Skirts & Blouses</li>
+            <li>Colorful Jeans - Pastels and Neons</li>
         </ul>
         
-        <h2>Instructions</h2>
+        <h2>Accessories</h2>
         <ol>
-            <li>Step 1</li>
-            <li>Step 2</li>
-            <li>Step 3</li>
+            <li>Scarves</li>
+            <li>Purses</li>
+            <li>Flats, Boat Shoes & Sandals</li>
         </ol>
         
         <footer>
@@ -52,8 +53,8 @@
     <aside>
         <h2>Aside stuff</h2>
         <ul>
-            <li>link to italian category</li>
-            <li>link to dessert category</li>
+            <li>link to jcrew.com</li>
+            <li>link to aritzia.com</li>
         </ul>
     </aside>
     
