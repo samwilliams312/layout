@@ -1,47 +1,72 @@
 <!doctype html>
 <html>
     <head>
-        <title></title>
-        <link rel="stylesheet" href = "./styles/layout.css"/>
+        <title>My Recipes :: Panna Cotta</title>
+        <link rel="stylesheet" href="./styles/layout.css"/>
         <style>
         </style>
     </head>
     
     <body>
-        
-     <div id="wrapper">
-         <header>
-             <h1>Lifestyle Blog</h1>
-         </header>
-            
-     <nav>   
-         <h2>Navigation</h2>
-       <ul>
-           <li>homepage</li>
-           <li>about us</li>
-           <li>style blog</li>
-       </ul>
-     </nav>
-         
-         <article>
-             <header>
-                 <h1>This weeks trends</h1>
-             </header>
-             <p> this is my main paragraph content.</p>
-             <footer>
-                 <p>category info, publish date, etc.</p>
-             </footer>
-         </article>
-         
-  <aside>
-      <h2> Aside stuff</h2>
-      <li>related links</li>
-  </aside>
-         
- <footer>
-     
- </footer>
-
-    </body>
+    <!-- jsfiddle goes here -->
+    <div id="wrapper">
+    <header class="main">
+         <h1>My Recipe Site</h1>
+    </header>
     
+    <nav>
+        <h2>Site Nav</h2>
+        <ul>
+            <li>Home</li>
+            <li>Recipes</li>
+            <li>About Us</li>
+        </ul>
+    </nav>
+    
+    <article>
+        <header class="article">
+            <h1>Panna Cotta</h1>
+        </header>
+        
+        <p>Description, serving sizes, etc...</p>
+        
+        <h2>Ingredients</h2>
+        <ul>
+            <li>Gelatin</li>
+            <li>Cream</li>
+            <li>White Chocolate</li>
+        </ul>
+        
+        <h2>Instructions</h2>
+        <ol>
+            <li>Step 1</li>
+            <li>Step 2</li>
+            <li>Step 3</li>
+        </ol>
+        
+        <footer>
+            <p>categories, publish date, source, tags, etc.</p>
+        </footer>
+    </article>
+    
+    <aside>
+        <h2>Aside stuff</h2>
+        <ul>
+            <li>link to italian category</li>
+            <li>link to dessert category</li>
+        </ul>
+    </aside>
+    
+    <footer class="bottom">
+        <h2>Footer</h2>
+        <ul>
+            <li>copyright info</li>
+            <li>terms of service</li>
+            <li>privacy statement</li>
+            <li>contact info</li>
+        </ul>
+    </footer>
+</div>
+        
+    </body>
 </html>
